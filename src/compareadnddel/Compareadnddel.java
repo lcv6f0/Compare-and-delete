@@ -10,7 +10,7 @@ import java.util.Arrays;
 
 /**
  *
- * @author Christian
+ * @author Luc
  */
 public class Compareadnddel {
 

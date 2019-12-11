@@ -7,7 +7,7 @@ package compareadnddel;
 
 /**
  *
- * @author Christian
+ * @author Luc
  */
 class ArrayQueue<E> implements Queue<E> {
 

@@ -7,7 +7,7 @@ package compareadnddel;
 
 /**
  *
- * @author L
+ * @author Luc
  */
 public class QueueException extends Exception {
 
